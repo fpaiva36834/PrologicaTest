@@ -67,7 +67,6 @@ C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Mes
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\MessagePack.Annotations.dll
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.Build.Locator.dll
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -268,3 +267,6 @@ C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\run
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Francisco\source\repos\PrologicaTest\PrologicaTest\bin\Debug\net6.0\Microsoft.NET.StringTools.dll

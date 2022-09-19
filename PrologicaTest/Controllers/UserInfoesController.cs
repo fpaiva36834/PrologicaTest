@@ -27,6 +27,20 @@ namespace PrologicaTest.Controllers
                           Problem("Entity set 'ApplicationDbContext.UserInfo'  is null.");
         }
 
+        // GET: UserInfoes/SearchForm
+        public async Task<IActionResult> SearchForm()
+        {
+            return View();
+        }
+
+        // GET: UserInfoes/SearchFormResults
+        public async Task<IActionResult> SearchFormResults(String UserSearch)
+        {
+            return _context.UserInfo != null ?
+                          View("Index",await _context.UserInfo.Where(j => j.UserName.Contains(UserSearch)).ToListAsync()) :
+                          Problem("Entity set 'ApplicationDbContext.UserInfo'  is null.");
+        }
+
         // GET: UserInfoes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
